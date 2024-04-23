@@ -1,0 +1,311 @@
+#encabezado{
+  width:100%;
+  height:10%;
+}
+header #div1{
+  width:50%;
+  height:10%;
+  background-color:#307709;
+  float:left;
+  margin:0px;
+}
+.logo{
+  border-radius: 40px;
+  margin:3px;
+}
+a, i{
+  color:#F9FCF9;
+}
+#1banner{
+  width:100%;
+  height:80%;
+  margin:0px;
+}
+header, #div2{
+  width:50%;
+  height:10%;
+  background-color:#307709;
+  float:right;
+  padding:2px;
+  margin:0px;
+  text-decoration:none;
+}
+article, h2, i{
+  color:#051E05;
+}
+i{
+  color:#F9FCF9;
+}
+.rounded{
+  width:33.33%;
+  height:80%;
+  float:left;
+  float:center;
+  float:right;
+  
+}
+h3{
+  text-align:center;
+  font-size:100%;
+}
+h1{ 
+  text-align:center;
+  color:#0F2A0F;
+}
+footer{
+  width:100%;
+  height:31%;
+  background-color:#307709;
+  float:left;
+  margin=0px;
+}
+.nav-titulo{
+  text-align:center;
+  color:#274827;
+  font-size:2em;
+  text-align:center;
+  width:33.33%;
+  height:28%; 
+  float:left;
+}
+a{
+  text-decoration:none;
+}
+header ul li{
+  display:inline;
+  width: 400px;
+  padding: 20px;
+  margin: 0px;
+  position: relative;
+  top: 0px;
+  list-style: none;
+}
+li:hover{
+  background-color:#3F793F;
+}
+body{
+  background-color:#C1E7BB;
+  margin:0px
+}
+nav h1{
+  text-align:center;
+  color:#0F2A0F; 
+  font-size:100%;
+}
+.haciendas{
+  border-radius:60px;
+  width:50%;
+  height:100%;
+}
+p{
+  text-align:center;
+}
+.video{
+  width: 90%;
+  height:90%;
+  overflow:hidden;
+  margin:10px 40px 10px 40px;
+  padding:10px;
+  text-align:center;
+}
+.nosotros{
+  text-align:center;
+  padding:25px;
+  float:left;
+  width:29%; 
+  height:60%; 
+  float:left
+}
+.quienes-somos{
+  width:50%; 
+  height:50%; 
+  float:left;
+}
+div > h2{
+  text-align:center;
+}
+article div{
+  padding: 70px 300px 70px 300px;
+}
+.1boton{
+  text-align:center;
+}
+nav div h1{
+  font-size:50px
+}
+.slider-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  overflow-x: scroll;
+}
+
+.slider-container img {
+  flex: 0 0 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.slider-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  overflow-x: scroll
+  scroll-snap-type: x mandatory;
+}
+
+.slider-container img {
+  flex: 0 0 100%;
+  width: 100%;
+  object-fit: cover;
+  scroll-snap-align: center;
+}
+.risaralda{
+  width:50%;
+  height:90%;
+  float:left;
+}
+.text-risaralda{
+  width:45%;
+  height:90%;
+  float:left;
+  padding:20px 10px 10px 50px;
+}
+section > img{
+  padding:10px 10px 10px 300px
+}
+aside > p {
+  padding:10px 300px 10px 0px
+}
+.imagen-fondo{
+  background-image: url('../imagenes/contacto.jpg');
+  background-size:cover;
+  height:80%;
+  width:100%
+}
+.cabecera{
+  color: #fff;
+  text-align:center;
+}
+.contantanos{
+  float:left;
+}
+input{
+  float:left;
+  padding:5px;
+  margin-left:40px;
+}
+h4{
+  text-align:left;
+  font-size:20px;
+  padding:80px 30px 10px 80px;
+  margin:0px;
+}
+#ubicacion{
+  text-align:center;
+  height:100%;
+  margin:10px;
+  font-size:40PX;
+  color:#0F2A0F;
+}
+#texto-primero{
+  width:50%;
+  height:50%;
+  float:left;
+}
+#bottom-primero{
+  height:20px; 
+  width:100px; 
+  margin: -60px -50px; 
+  position:relative;
+  top:50%; 
+  left:50%;
+  background-color:#518A4C;
+  border-color:#518A4C;
+}
+#imagen-quienes-somos{
+  width:45%;
+  height:45%;
+  float:left;
+  margin:10px;
+}
+#accesos-haciendas{
+  width:100%;
+  height:70%; 
+  float:left;
+}
+#titulo-principal{ 
+  width:100%;
+  height:10%; 
+  float:centcerter;
+  font-size:40px;
+  color:#0F2A0F;
+}
+.footer-informacion{
+  width:30%;
+  height:20%; 
+  float:left;
+  color:#FFFFFF;
+  text-align:center;
+  padding:30px 10px 50px 10px
+
+}
+footer p{
+  padding:10px 10px 10px 45px;
+  margin:0px;
+}
+footer h6{
+  padding:0px 10px 0px 45px;
+  font-size:15px;
+  margin:2px
+}
+footer ul{
+  list-style:none;
+}
+footer > pre{
+  float:right
+}
+#instagram{
+  padding:10px 50px 10px 50px
+}
+#creador{
+  text-align:center;
+  padding:170px 20px 10px 20px;
+  color:#FFFFFF;
+}
+#2banner{
+  width:100%;
+  height:80%;
+}
+#nosotros2{
+  width:100%; 
+  height:50%; 
+  float:left;
+}
+.carrucel{
+  width:100%;
+  height:120%;
+  float:left;
+}
+.caldas{
+  width:50%; 
+  height:60%; 
+  float:left;
+}
+.tolima{
+  width:50%; 
+  height:90%;
+  float:left;
+}
+#aside-imagen{
+  width:50%; 
+  height:90%;
+  float:left;
+}
+.mas-informacion{
+  background-color:#518A4C;
+  border-color:#518A4C;
+}
+.formulario{
+	color:red;
+	text-align:center;
+}
